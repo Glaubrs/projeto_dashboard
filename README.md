@@ -1,2 +1,1 @@
-# projeto_dashboard
-Projeto de um dashboard em Python
+Esse é um projeto básico de dashboard em Python
